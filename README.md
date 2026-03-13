@@ -28,6 +28,6 @@ The developer (**SADFRIENDS**) and any contributors are **NOT RESPONSIBLE** for 
 ## 📦 Installation & Dependencies
 To install all necessary components, run:
 ```bash
-git clone https://github.com
+git clone https://github.com/LucyFear7778/Web-Hawk.git
 cd WebHawk
 pip install -r requirements.txt
